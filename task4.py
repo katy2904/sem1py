@@ -11,3 +11,5 @@ elif quarter == 3:
     print('III четверть: x < 0, y < 0')
 elif quarter == 4:
     print('IV четверть: x > 0, y < 0')
+else:
+    print(f'Четверти {quarter} не существует')
